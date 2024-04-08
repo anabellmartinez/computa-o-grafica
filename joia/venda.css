@@ -114,6 +114,13 @@ body {
   .home_black_version{
     background-color: black;
   }
+  header{
+    display: flex;
+    justify-content: space-around;
+  }
+  #logo{
+    height:200px;
+  }
   .header_black .header_top{
     border-bottom: 1px solid #2d2d2d;
   }
